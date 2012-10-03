@@ -1,0 +1,33 @@
+
+body{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	background: #4c4c4c;
+	color:#fff;
+	background: url(/assets/img/wallpaper-529455.jpg) top center ;
+}
+
+
+#header{
+	height: 120px;
+}
+
+#personal{
+	text-align: right;
+}
+
+
+#mypic{
+	width: 70px;
+	float: right;
+	padding-left: 20px;
+}
+
+
+#gridster{
+	position: relative;
+}
+
+.gridster li{
+	background: red;
+	list-style: none;
+}
