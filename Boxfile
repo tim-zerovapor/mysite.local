@@ -1,5 +1,4 @@
 web1:
-  name:vague-vickie-02
   shared_writable_dirs:
     - /fuel/app/cache
     - /fuel/app/logs
